@@ -29,6 +29,8 @@ part1_files = {
 	'ft_strdup.c' 	: ProjectFile('ft_strdup', 'char\t*ft_strdup(const char *s)', []),
 	'Makefile' 		: ProjectFile('Makefile', None, None),
 	'libft.h' 		: ProjectFile('libft.h', None, None),
+	'README.md'		: ProjectFile('README', None, None),
+	'.gitignore'	: ProjectFile('.gitignore', None, None),
 	'.git'			: ProjectFile('.git', None, None)
 }
 
